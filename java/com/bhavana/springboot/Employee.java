@@ -1,4 +1,4 @@
-package com.bhavana.springboot.model;
+package com.bhavana.springboot;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
