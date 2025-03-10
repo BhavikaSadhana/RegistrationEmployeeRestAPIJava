@@ -1,4 +1,4 @@
-package com.bhavana.springboot.exception;
+package com.bhavana.springboot;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
