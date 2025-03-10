@@ -1,4 +1,4 @@
-package com.bhavana.springboot.controller;
+package com.bhavana.springboot;
 
 import java.util.HashMap;
 import java.util.List;
@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bhavana.springboot.exception.ResourceNotFoundException;
-import com.bhavana.springboot.model.Employee;
-import com.bhavana.springboot.repository.EmployeeRepository;
+import com.bhavana.springboot.ResourceNotFoundException;
+import com.bhavana.springboot.Employee;
+import com.bhavana.springboot.EmployeeRepository;
 
 
 @CrossOrigin(origins = "http://localhost:4200")
