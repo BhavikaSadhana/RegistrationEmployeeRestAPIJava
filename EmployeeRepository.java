@@ -1,4 +1,4 @@
-package com.bhavana.springboot.repository;
+package com.bhavana.springboot;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
